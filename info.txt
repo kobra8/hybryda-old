@@ -1,0 +1,6 @@
+Stopka:
+404.php
+index.php
+single.php
+search.php
+page.php
